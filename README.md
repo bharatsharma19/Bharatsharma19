@@ -54,7 +54,7 @@ View My Live Projects
 	<img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharatsharma19&theme=tokyonight" />
 </p>
 
-## 💳 Github Profile Summary Card
+## 💳 Summary Card
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharatsharma19&theme=tokyonight"/>
   <br><br>
