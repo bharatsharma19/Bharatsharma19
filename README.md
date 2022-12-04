@@ -48,13 +48,13 @@ View My Live Projects
   <img src="https://github-profile-trophy.vercel.app/?username=bharatsharma19"/>
 </p>
 
-## ⚛️ GitHub Summary
+## ⚛️ Summary Stats
 <p align="center">
 	<img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharatsharma19&theme=tokyonight" />
 	<img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharatsharma19&theme=tokyonight" />
 </p>
 
-## 💳 Summary Card
+## 💳 Summary Graph
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharatsharma19&theme=tokyonight"/>
   <br><br>
