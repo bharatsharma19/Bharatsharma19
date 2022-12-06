@@ -61,6 +61,7 @@ View My Live Projects
   https://skyline.github.com/Bharatsharma19/2022
 </p>
 
+<!--
 ## 💹 Contribution Graph
 <p align="center">
 	<img src="https://github.com/Bharatsharma19/Bharatsharma19/blob/output/github-contribution-grid-snake.gif">
@@ -70,6 +71,7 @@ View My Live Projects
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=bharatsharma19&theme=react-dark"/>
 </p>
+-->
 
 ---
 <p align=center>
