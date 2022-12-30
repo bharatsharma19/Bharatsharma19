@@ -67,10 +67,12 @@ View My Live Projects
 	<img src="https://github.com/Bharatsharma19/Bharatsharma19/blob/output/github-contribution-grid-snake.gif">
 </p>	
 
+<!--
 ## 📈 Activity Graph
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=bharatsharma19&theme=react-dark"/>
 </p>
+-->
 
 ---
 <p align=center>
