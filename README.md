@@ -64,7 +64,7 @@ View My Live Projects
 
 ## 💹 Contribution Graph
 <p align="center">
-	<img src="https://github.com/Bharatsharma19/Bharatsharma19/blob/output/github-contribution-grid-snake.gif" />
+	<img src="https://github.com/Bharatsharma19/Bharatsharma19/blob/output/github-contribution-grid-snake.svg" />
 </p>	
 
 ## 📈 Activity Graph
