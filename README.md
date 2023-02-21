@@ -61,20 +61,18 @@ View My Live Projects
   https://skyline.github.com/Bharatsharma19/2022
 </p>
 
-
 ## 💹 Contribution Graph
 <p align="center">
-	<img src="https://github.com/Bharatsharma19/Bharatsharma19/blob/output/github-contribution-grid-snake.svg" />
+	<img align="center" src="https://github.com/Bharatsharma19/Bharatsharma19/blob/output/github-contribution-grid-snake.gif" />
 </p>	
 
 ## 📈 Activity Graph
 <p align="center">
-	<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bharatsharma19&bg_color=000000&color=fbff00&line=05e0f0&point=ffffff&area=true&hide_border=true"/>
+	<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bharatsharma19&bg_color=000000&color=fbff00&line=05e0f0&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 <p align=center>
-<img height="24" src="https://komarev.com/ghpvc/?username=Bharatsharma19&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Bharatsharma19"/>
-<a href="https://github.com/Bharatsharma19">
-</a>
+	<img height="24" src="https://komarev.com/ghpvc/?username=Bharatsharma19&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Bharatsharma19"/>
+	<a href="https://github.com/Bharatsharma19"></a>
 </p>
