@@ -78,7 +78,7 @@ View My Live Projects
 
 ## 📈 Activity Graph
 <p align="center">
-	<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bharatsharma19&bg_color=000000&color=fbff00&line=05e0f0&point=ffffff&area=true&hide_border=true" />
+	<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bharatsharma19&bg_color=000000&color=fbff00&line=05e0f0&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
