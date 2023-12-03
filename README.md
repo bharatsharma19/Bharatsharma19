@@ -9,7 +9,7 @@ I'm a self-taught passionate Software Developer from India 🇮🇳</h3>
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 </div>
 <h3 align="center">
-  <a href="https://bharatsharma19.github.io/Main-Portfolio/">
+  <a href="https://bharatsharma.co/">
 Checkout My Portfolio
   </a>
   <br><br>
