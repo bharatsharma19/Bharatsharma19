@@ -8,6 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
@@ -20,8 +21,9 @@ jobs:
 
       - run: git status
 
+      # Push the changes using the new action
       - name: Push changes
-        uses: ad-m/github-push-action@v1.0.0
+        uses: github-actions-x/commit@v3.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
