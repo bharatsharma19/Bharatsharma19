@@ -66,13 +66,6 @@
 
 ---
 
-## 💻 Commits Overview
-<p align="center">
-  <img height="256" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bharatsharma19&theme=blueberry&utcOffset=8" alt="Commits Productive Time"/>
-</p>
-
----
-
 ## 📟 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bharatsharma19&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFEB07" alt="GitHub Streak Stats"/>
@@ -89,15 +82,15 @@
 
 ## ⚛️ Summary Stats
 <p align="center">
-  <img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bharatsharma19&theme=blueberry" alt="Repos Per Language"/>
-  <img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bharatsharma19&theme=blueberry" alt="Profile Stats"/>
+  <img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bharatsharma19&theme=2077" alt="Repos Per Language"/>
+  <img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bharatsharma19&theme=2077" alt="Profile Stats"/>
 </p>
 
 ---
 
 ## 💳 Profile Summary Graph
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bharatsharma19&theme=blueberry" alt="Profile Summary Graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bharatsharma19&theme=2077" alt="Profile Summary Graph"/>
 </p>
 
 ---
