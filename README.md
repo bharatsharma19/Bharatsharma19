@@ -59,16 +59,31 @@
 
 ---
 
-## 🛂 Contribution Metrics
+## 🛂 Metrics
 <p align="center">
   <img src="https://metrics.lecoq.io/bharatsharma19" alt="Contribution Metrics"/>
 </p>
 
 ---
 
-## 📟 GitHub Stats
+## 📟 Contributions
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bharatsharma19&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFEB07" alt="GitHub Streak Stats"/>
+</p>
+
+---
+
+## ⚛️ Stats
+<p align="center">
+  <img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bharatsharma19&theme=2077" alt="Repos Per Language"/>
+  <img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bharatsharma19&theme=2077" alt="Profile Stats"/>
+</p>
+
+---
+
+## 💳 Summary
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bharatsharma19&theme=2077" alt="Profile Summary Graph"/>
 </p>
 
 ---
@@ -80,29 +95,14 @@
 
 ---
 
-## ⚛️ Summary Stats
-<p align="center">
-  <img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bharatsharma19&theme=2077" alt="Repos Per Language"/>
-  <img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bharatsharma19&theme=2077" alt="Profile Stats"/>
-</p>
-
----
-
-## 💳 Profile Summary Graph
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bharatsharma19&theme=2077" alt="Profile Summary Graph"/>
-</p>
-
----
-
-## 💹 Contribution Graph
+## 💹 Overall Activity
 <p align="center">
   <img src="https://github.com/Bharatsharma19/Bharatsharma19/blob/output/github-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Recent Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharatsharma19&bg_color=0d1117&color=ffffff&line=ff6c00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
@@ -110,5 +110,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bharatsharma19&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Bharatsharma19&color=blue" alt="Profile Views" />
 </p>
