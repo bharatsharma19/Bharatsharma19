@@ -1,124 +1,305 @@
-<h1 align="center">
-  Hey! I'm Bharat Sharma <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/> Nice to meet you.
-</h1>
-
-<h3 align="center">
-  A self-taught, passionate Software Developer from India 🇮🇳
-</h3>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Coding GIF" width="500"/>
-</div>
-
-<!--
 <p align="center">
-  <a href="https://bharatsharma.co/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐-Visit My Portfolio-blue?style=for-the-badge" />
-  </a>
-  <a href="https://replit.com/@bharatsharma19/" target="_blank">
-    <img src="https://img.shields.io/badge/💻-Live Projects-green?style=for-the-badge" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=145&color=0:0F172A,50:2563EB,100:14B8A6&text=Bharat%20Sharma&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Technical%20Lead%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20AI%20Systems&descAlignY=58&descSize=15" alt="Bharat Sharma" />
 </p>
--->
 
----
-
-## 💫 About Me
-- 😄 Pronouns: **He/Him**
-- 💬 I’m happy to discuss anything related to **tech**, **coding**, or **software development**.
-- 🎯 My goals include continuous learning and working on exciting projects.
-- ❤️ Passionate about **TypeScript**, **JavaScript**, and building amazing projects on the **type-level**.
-- 📫 Reach me via the social links below!
-
----
-
-<!--
-## 🌐 Let's Connect
 <p align="center">
+  <a href="https://bharat-sharma-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/bharatsharma1909/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/bharatsharma_19">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="mailto:bharat8717sharma@gmail.com">
+    <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Bharatsharma19&style=for-the-badge&color=2563eb" alt="Profile views" />
 </p>
 
----
--->
-
-## 💻 Tech Stack
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-<!--
-## 🛂 Metrics
 <p align="center">
-  <img src="https://metrics.lecoq.io/bharatsharma19" alt="Contribution Metrics"/>
-</p>
-
----
--->
-
-## 📟 Contributions
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bharatsharma19&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFEB07" alt="GitHub Streak Stats"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&center=true&vCenter=true&width=850&lines=Building+reliable+AI-enabled+products;Designing+scalable+backend+and+cloud+systems;Turning+complex+requirements+into+production-ready+software" alt="Typing SVG" />
 </p>
 
 ---
 
-<!--
-## ⚛️ Stats
-<p align="center">
-  <img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bharatsharma19&theme=2077" alt="Repos Per Language"/>
-  <img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bharatsharma19&theme=2077" alt="Profile Stats"/>
-</p>
+## About
 
----
--->
+I am a **Technical Lead and Full-Stack Engineer** working at the intersection of **backend architecture, AI systems, cloud infrastructure, and product engineering**.
 
-## 💳 Summary
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bharatsharma19&theme=2077" alt="Profile Summary Graph"/>
-</p>
+Currently working at **Nutricheck**, where I contribute to building secure, scalable, and user-focused software systems for modern health technology.
 
----
+I care about building products that are:
 
-<!--
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharatsharma19" alt="Trophies"/>
-</p>
-
----
--->
-
-## 💹 Overall Activity
-<p align="center">
-  <img src="https://github.com/Bharatsharma19/Bharatsharma19/blob/output/github-snake.svg" alt="Contribution Snake"/>
-</p>
+<table>
+  <tr>
+    <td><strong>Reliable</strong><br/>Designed to work consistently in production</td>
+    <td><strong>Scalable</strong><br/>Built with growth, maintainability, and performance in mind</td>
+  </tr>
+  <tr>
+    <td><strong>Secure</strong><br/>Careful with data, access, infrastructure, and operational safety</td>
+    <td><strong>Useful</strong><br/>Focused on real product outcomes, not just technical complexity</td>
+  </tr>
+</table>
 
 ---
 
-## 📈 Recent Activity
+## What I work on
+
+<table>
+  <tr>
+    <td><strong>Backend Engineering</strong></td>
+    <td>APIs, services, databases, caching, queues, performance, and production reliability</td>
+  </tr>
+  <tr>
+    <td><strong>AI Systems</strong></td>
+    <td>LLM workflows, structured outputs, automation, intelligent product features, and applied AI integrations</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & DevOps</strong></td>
+    <td>Deployments, CI/CD, Docker, cloud infrastructure, monitoring, and operational workflows</td>
+  </tr>
+  <tr>
+    <td><strong>Full-Stack Product</strong></td>
+    <td>Web applications, internal tools, admin systems, mobile experiences, and user-facing product flows</td>
+  </tr>
+</table>
+
+---
+
+## Engineering profile
+
+```txt
+Role        : Technical Lead / Lead Full-Stack Engineer
+Focus       : AI-enabled products, backend platforms, cloud systems
+Strengths  : Architecture, execution, debugging, production ownership
+Style       : Practical, clear, reliable, product-oriented
+```
+
+---
+
+## Selected strengths
+
+<details open>
+  <summary><strong>Technical leadership</strong></summary>
+
+<br/>
+
+- Lead engineering work across backend, frontend, AI, infrastructure, and product-facing systems.
+- Review technical decisions with a focus on maintainability, reliability, and long-term scalability.
+- Collaborate across product, design, research, and engineering teams to turn complex requirements into working systems.
+- Help improve development workflows, production readiness, and overall engineering quality.
+
+</details>
+
+<details>
+  <summary><strong>Backend and platform engineering</strong></summary>
+
+<br/>
+
+- Design and build APIs, services, database models, and backend workflows.
+- Work with caching, background jobs, queues, scheduled tasks, and production debugging.
+- Improve system performance, reliability, and developer experience.
+- Build systems with clear separation of concerns and maintainable architecture.
+
+</details>
+
+<details>
+  <summary><strong>AI and automation</strong></summary>
+
+<br/>
+
+- Build applied AI workflows for real product use cases.
+- Work with LLM orchestration, structured responses, validation, automation, and internal tooling.
+- Focus on reliability, traceability, and practical usefulness of AI features in production environments.
+- Translate complex inputs into cleaner, more actionable software outputs.
+
+</details>
+
+<details>
+  <summary><strong>Cloud, security and production operations</strong></summary>
+
+<br/>
+
+- Work with cloud deployments, CI/CD pipelines, Dockerized services, server maintenance, and environment configuration.
+- Improve operational workflows around logs, monitoring, background jobs, and production releases.
+- Apply security-conscious engineering practices around authentication, access control, file handling, and system hardening.
+- Debug production issues across services and coordinate safe releases.
+
+</details>
+
+<details>
+  <summary><strong>Product and user experience</strong></summary>
+
+<br/>
+
+- Build user-facing web experiences, internal backoffice tools, and mobile application flows.
+- Improve UI responsiveness, dark/light mode compatibility, navigation, and interaction quality.
+- Create internal tools that help teams operate, review, manage, and debug product workflows faster.
+- Balance engineering depth with product usability.
+
+</details>
+
+---
+
+## Public repositories
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 MedXtract</h3>
+      <p>
+        Applied AI system for extracting structured information from unstructured medical-style documents.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/bharatsharma19/MedXtract">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💸 Spendwise Backend</h3>
+      <p>
+        Backend API for personal finance workflows, authentication, data handling, and service-layer architecture.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/bharatsharma19/Spendwise-Backend">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Sero Pay</h3>
+      <p>
+        Monorepo-based payment platform structure with user, merchant, webhook, and shared service layers.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/bharatsharma19/Sero-Pay">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚗 PaynRide</h3>
+      <p>
+        Mobile product experience for vehicle-rental flows, customer journeys, and app-based interaction design.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
+        <img src="https://img.shields.io/badge/Mobile_App-111827?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/bharatsharma19/Paynride-Phone-Application">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech I use
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharatsharma19&bg_color=0d1117&color=ffffff&line=ff6c00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,nestjs,fastapi,react,nextjs,vue,nuxt,flutter,postgres,redis,mongodb,docker,gcp,aws,githubactions,nginx" alt="Tech stack" />
 </p>
+
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>TypeScript · JavaScript · Python · C++ · Bash</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>FastAPI · NestJS · Node.js · Express · Django · Flask</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React · Next.js · Vue · Nuxt.js · Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td>Flutter · React Native</td>
+  </tr>
+  <tr>
+    <td><strong>AI / LLM</strong></td>
+    <td>LangGraph · LangChain · RAG · Agents · OpenAI API · Vertex AI</td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>PostgreSQL · Redis · MySQL · MongoDB · Neo4j · Firebase</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud / DevOps</strong></td>
+    <td>GCP · AWS · Docker · GitHub Actions · GitLab CI · Jenkins · Nginx</td>
+  </tr>
+  <tr>
+    <td><strong>Testing / Monitoring</strong></td>
+    <td>Jest · Cypress · Prometheus · Grafana · New Relic</td>
+  </tr>
+</table>
+
+---
+
+## How I think about engineering
+
+```txt
+Build for clarity.
+Design for change.
+Debug with evidence.
+Automate repeated work.
+Protect users and systems.
+Keep production boring.
+```
+
+---
+
+## Current focus
+
+<table>
+  <tr>
+    <td>AI-enabled product engineering</td>
+    <td>Scalable backend architecture</td>
+  </tr>
+  <tr>
+    <td>Cloud-native production systems</td>
+    <td>Developer experience and internal tools</td>
+  </tr>
+  <tr>
+    <td>Secure and maintainable software</td>
+    <td>Fast product execution with long-term technical quality</td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bharatsharma19&color=blue" alt="Profile Views" />
+  <strong>Open to:</strong> Technical Lead · Lead Full-Stack Engineer · AI Systems Engineer · Backend Engineer · Platform Engineer · Founding Engineer
+</p>
+
+<p align="center">
+  <a href="https://bharat-sharma-portfolio.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/bharatsharma1909/">LinkedIn</a> ·
+  <a href="mailto:bharat8717sharma@gmail.com">bharat8717sharma@gmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:14B8A6,50:2563EB,100:0F172A&section=footer" alt="Footer" />
 </p>
