@@ -10,6 +10,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Coding GIF" width="500"/>
 </div>
 
+<!--
 <p align="center">
   <a href="https://bharatsharma.co/" target="_blank">
     <img src="https://img.shields.io/badge/🌐-Visit My Portfolio-blue?style=for-the-badge" />
@@ -18,6 +19,7 @@
     <img src="https://img.shields.io/badge/💻-Live Projects-green?style=for-the-badge" />
   </a>
 </p>
+-->
 
 ---
 
@@ -30,6 +32,7 @@
 
 ---
 
+<!--
 ## 🌐 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/bharatsharma1909/">
@@ -41,6 +44,7 @@
 </p>
 
 ---
+-->
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -59,12 +63,14 @@
 
 ---
 
+<!--
 ## 🛂 Metrics
 <p align="center">
   <img src="https://metrics.lecoq.io/bharatsharma19" alt="Contribution Metrics"/>
 </p>
 
 ---
+-->
 
 ## 📟 Contributions
 <p align="center">
@@ -73,6 +79,7 @@
 
 ---
 
+<!--
 ## ⚛️ Stats
 <p align="center">
   <img height="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bharatsharma19&theme=2077" alt="Repos Per Language"/>
@@ -80,6 +87,7 @@
 </p>
 
 ---
+-->
 
 ## 💳 Summary
 <p align="center">
@@ -88,12 +96,14 @@
 
 ---
 
+<!--
 ## 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bharatsharma19" alt="Trophies"/>
 </p>
 
 ---
+-->
 
 ## 💹 Overall Activity
 <p align="center">
