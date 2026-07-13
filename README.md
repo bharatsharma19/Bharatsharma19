@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=145&color=0:0F172A,50:2563EB,100:14B8A6&text=Bharat%20Sharma&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Technical%20Lead%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20AI%20Systems&descAlignY=58&descSize=15" alt="Bharat Sharma" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=148&color=0:0F172A,50:2563EB,100:14B8A6&text=Bharat%20Sharma&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Technical%20Lead%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20AI%20Systems&descAlignY=58&descSize=15" alt="Bharat Sharma" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ I care about building products that are:
 ```txt
 Role        : Technical Lead / Lead Full-Stack Engineer
 Focus       : AI-enabled products, backend platforms, cloud systems
-Strengths  : Architecture, execution, debugging, production ownership
+Strengths   : Architecture, execution, debugging, production ownership
 Style       : Practical, clear, reliable, product-oriented
 ```
 
@@ -301,5 +301,5 @@ Keep production boring.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:14B8A6,50:2563EB,100:0F172A&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=84&color=0:14B8A6,50:2563EB,100:0F172A&section=footer" alt="Footer" />
 </p>
