@@ -297,3 +297,8 @@ const bharat = {
 <p align="center">
   <a href="https://itsbharatsharma.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/bharatsharma1909/">LinkedIn</a> · <a href="mailto:itsbharatsharma19@gmail.com">itsbharatsharma19@gmail.com</a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1E3A8A%2C50:2563EB%2C100:14B8A6" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2563EB%2C100:14B8A6" alt="" />
+</picture>
