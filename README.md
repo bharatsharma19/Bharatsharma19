@@ -1,84 +1,229 @@
+<a href="https://itsbharatsharma.vercel.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1E3A8A%2C50:2563EB%2C100:14B8A6&text=Bharat%20Sharma&fontColor=FFFFFF&fontSize=64&fontAlignY=35&desc=Technical%20Lead%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20AI%20Systems&descSize=22&descAlignY=56" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2563EB%2C100:14B8A6&text=Bharat%20Sharma&fontColor=0F172A&fontSize=64&fontAlignY=35&desc=Technical%20Lead%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20AI%20Systems&descSize=22&descAlignY=56" alt="Bharat Sharma. Technical Lead, Full-Stack Engineer, AI Systems." />
+  </picture>
+</a>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=148&color=0:0F172A,50:2563EB,100:14B8A6&text=Bharat%20Sharma&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Technical%20Lead%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20AI%20Systems&descAlignY=58&descSize=15" alt="Bharat Sharma" />
+  <a href="https://itsbharatsharma.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&height=40&lines=Building+reliable+AI-enabled+products;Designing+scalable+backend+and+cloud+systems;Turning+complex+requirements+into+production-ready+software" alt="Building reliable AI-enabled products. Designing scalable backend and cloud systems. Turning complex requirements into production-ready software." /></a>
 </p>
 
 <p align="center">
-  <a href="https://bharat-sharma-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/bharatsharma1909/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bharat8717sharma@gmail.com">
-    <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Bharatsharma19&style=for-the-badge&color=2563eb" alt="Profile views" />
+  <a href="https://itsbharatsharma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/bharatsharma1909/"><img src="https://img.shields.io/badge/LinkedIn-0E7490?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:itsbharatsharma19@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&center=true&vCenter=true&width=850&lines=Building+reliable+AI-enabled+products;Designing+scalable+backend+and+cloud+systems;Turning+complex+requirements+into+production-ready+software" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=Bharatsharma19&color=blue" alt="Profile Views" />
 </p>
-
----
 
 ## About
 
 I am a **Technical Lead and Full-Stack Engineer** working at the intersection of **backend architecture, AI systems, cloud infrastructure, and product engineering**.
 
-Currently working at **Nutricheck**, where I contribute to building secure, scalable, and user-focused software systems for modern health technology.
+I build production AI systems and stay with them once they are live: agents and RAG on top, APIs and queues underneath, and the cloud, security and delivery that keep them running.
 
-I care about building products that are:
+## Impact
 
+<div align="center">
 <table>
   <tr>
-    <td><strong>Reliable</strong><br/>Designed to work consistently in production</td>
-    <td><strong>Scalable</strong><br/>Built with growth, maintainability, and performance in mind</td>
-  </tr>
-  <tr>
-    <td><strong>Secure</strong><br/>Careful with data, access, infrastructure, and operational safety</td>
-    <td><strong>Useful</strong><br/>Focused on real product outcomes, not just technical complexity</td>
+    <td align="center" valign="top" width="424">
+      <h1>11×</h1>
+      faster APIs<br/>
+      <sub>20-24 s responses brought down to 1-3 s</sub>
+    </td>
+    <td align="center" valign="top" width="424">
+      <h1>~8B</h1>
+      data points<br/>
+      <sub>processed behind one recommendation system</sub>
+    </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td align="center" valign="top" width="424">
+      <h1>1,000+</h1>
+      automated tests<br/>
+      <sub>across app, edge functions and database in one product</sub>
+    </td>
+    <td align="center" valign="top" width="424">
+      <h1>10</h1>
+      apps shipped for clients<br/>
+      <sub>4 web and 6 mobile, as a freelancer</sub>
+    </td>
+  </tr>
+</table>
+</div>
 
----
+## Featured projects
+
+<div align="center">
+<table>
+  <tr>
+    <td valign="top" width="424">
+      <h3>Exevra</h3>
+      <p>Expense and split tracker with an opt-in AI assistant. Money rules live in Postgres behind row-level security, and the assistant fails over between two model providers. 1,000+ automated tests.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Supabase-249361?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <p><a href="https://github.com/bharatsharma19/Exevra"><img src="https://img.shields.io/badge/View_repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Exevra repository" /></a></p>
+    </td>
+    <td valign="top" width="424">
+      <h3>Vyana</h3>
+      <p>Health and nutrition chatbot built on RAG. A LangGraph workflow retrieves from pgvector, keeps conversation state in Postgres, and remembers user facts across sessions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/LangGraph-0F766E?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
+      </p>
+      <p><a href="https://github.com/bharatsharma19/Vyana"><img src="https://img.shields.io/badge/View_repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Vyana repository" /></a></p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td valign="top" width="424">
+      <h3>MedXtract</h3>
+      <p>Turns lab report PDFs into structured JSON and CSV. Extraction agents run in parallel, a consensus agent merges their output, and validators check the result.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/LangGraph-0F766E?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
+      </p>
+      <p><a href="https://github.com/bharatsharma19/MedXtract"><img src="https://img.shields.io/badge/View_repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View MedXtract repository" /></a></p>
+    </td>
+    <td valign="top" width="424">
+      <h3>Personal Portfolio</h3>
+      <p>Static Next.js site with a three.js hero and three one-minute systems games. Tested with Playwright on three browser engines, plus accessibility and Lighthouse checks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-475569?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/three.js-0E7490?style=flat-square&logo=threedotjs&logoColor=white" alt="three.js" />
+      </p>
+      <p><a href="https://github.com/bharatsharma19/Personal-Portfolio"><img src="https://img.shields.io/badge/View_repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Personal Portfolio repository" /></a></p>
+    </td>
+  </tr>
+</table>
+</div>
 
 ## What I work on
 
+<div align="center">
 <table>
   <tr>
-    <td><strong>Backend Engineering</strong></td>
-    <td>APIs, services, databases, caching, queues, performance, and production reliability</td>
+    <td width="220"><b>Backend Engineering</b></td>
+    <td width="632">APIs, services, databases, caching, queues, performance, and production reliability</td>
   </tr>
   <tr>
-    <td><strong>AI Systems</strong></td>
+    <td><b>AI Systems</b></td>
     <td>LLM workflows, structured outputs, automation, intelligent product features, and applied AI integrations</td>
   </tr>
   <tr>
-    <td><strong>Cloud & DevOps</strong></td>
+    <td><b>Cloud & DevOps</b></td>
     <td>Deployments, CI/CD, Docker, cloud infrastructure, monitoring, and operational workflows</td>
   </tr>
   <tr>
-    <td><strong>Full-Stack Product</strong></td>
+    <td><b>Full-Stack Product</b></td>
     <td>Web applications, internal tools, admin systems, mobile experiences, and user-facing product flows</td>
   </tr>
 </table>
+</div>
 
----
+## Tech I use
 
-## Engineering profile
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cnodejs%2Cnestjs%2Cfastapi%2Creact%2Cnextjs%2Cvue%2Cnuxt%2Cflutter%2Cpostgres%2Credis%2Cmongodb%2Cdocker%2Cgcp%2Caws%2Cgithubactions%2Cnginx&perline=9&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python%2Cts%2Cnodejs%2Cnestjs%2Cfastapi%2Creact%2Cnextjs%2Cvue%2Cnuxt%2Cflutter%2Cpostgres%2Credis%2Cmongodb%2Cdocker%2Cgcp%2Caws%2Cgithubactions%2Cnginx&perline=9&theme=light" alt="Python, TypeScript, Node.js, NestJS, FastAPI, React, Next.js, Vue, Nuxt, Flutter, PostgreSQL, Redis, MongoDB, Docker, GCP, AWS, GitHub Actions, Nginx" />
+  </picture>
+</p>
 
-```txt
-Role        : Technical Lead / Lead Full-Stack Engineer
-Focus       : AI-enabled products, backend platforms, cloud systems
-Strengths   : Architecture, execution, debugging, production ownership
-Style       : Practical, clear, reliable, product-oriented
-```
+<div align="center">
+<table>
+  <tr>
+    <td width="220"><b>Languages</b></td>
+    <td width="632">TypeScript · JavaScript · Python · C++ · Bash</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>FastAPI · NestJS · Node.js · Express · Django · Flask</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React · Next.js · Vue · Nuxt.js · Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>Flutter · React Native</td>
+  </tr>
+  <tr>
+    <td><b>AI / LLM</b></td>
+    <td>LangGraph · LangChain · RAG · Agents · OpenAI API · Vertex AI</td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>PostgreSQL · Redis · MySQL · MongoDB · Neo4j · Firebase</td>
+  </tr>
+  <tr>
+    <td><b>Cloud / DevOps</b></td>
+    <td>GCP · AWS · Docker · GitHub Actions · GitLab CI · Jenkins · Nginx</td>
+  </tr>
+  <tr>
+    <td><b>Testing / Monitoring</b></td>
+    <td>Jest · Cypress · Prometheus · Grafana · New Relic</td>
+  </tr>
+</table>
+</div>
 
----
+## GitHub activity
 
-## Selected strengths
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="850">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bharatsharma19&hide_border=true&background=00000000&card_width=819&ring=3B82F6&fire=2DD4BF&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&stroke=334155" />
+        <img src="https://streak-stats.demolab.com?user=bharatsharma19&hide_border=true&background=00000000&card_width=819&ring=2563EB&fire=14B8A6&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=2563EB&sideLabels=475569&dates=64748B&stroke=CBD5E1" alt="GitHub contribution totals and streaks" />
+      </picture>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" width="850">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bharatsharma19&bg_color=00000000&hide_border=true&area=true&height=300&radius=10&custom_title=Contributions%2C%20last%2031%20days&color=94A3B8&title_color=F8FAFC&line=3B82F6&point=2DD4BF&area_color=3B82F6" />
+        <img width="819" src="https://github-readme-activity-graph.vercel.app/graph?username=bharatsharma19&bg_color=00000000&hide_border=true&area=true&height=300&radius=10&custom_title=Contributions%2C%20last%2031%20days&color=475569&title_color=0F172A&line=2563EB&point=14B8A6&area_color=2563EB" alt="Contribution graph for the last 31 days" />
+      </picture>
+    </td>
+  </tr>
+</table>
+</div>
 
-<details open>
+## How I work
+
+~~~ts
+const bharat = {
+  role: "Technical Lead / Lead Full-Stack Engineer",
+  focus: ["AI-enabled products", "backend platforms", "cloud systems"],
+  strengths: ["architecture", "execution", "debugging", "production ownership"],
+  principles: [
+    "Build for clarity",
+    "Design for change",
+    "Debug with evidence",
+    "Automate repeated work",
+    "Protect users and systems",
+    "Keep production boring",
+  ],
+} as const;
+~~~
+
+<details>
   <summary><strong>Technical leadership</strong></summary>
 
 <br/>
@@ -138,168 +283,19 @@ Style       : Practical, clear, reliable, product-oriented
 
 </details>
 
----
-
-## Public repositories
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 MedXtract</h3>
-      <p>
-        Applied AI system for extracting structured information from unstructured medical-style documents.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/bharatsharma19/MedXtract">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💸 Spendwise Backend</h3>
-      <p>
-        Backend API for personal finance workflows, authentication, data handling, and service-layer architecture.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/bharatsharma19/Spendwise-Backend">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Sero Pay</h3>
-      <p>
-        Monorepo-based payment platform structure with user, merchant, webhook, and shared service layers.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/bharatsharma19/Sero-Pay">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚗 PaynRide</h3>
-      <p>
-        Mobile product experience for vehicle-rental flows, customer journeys, and app-based interaction design.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
-        <img src="https://img.shields.io/badge/Mobile_App-111827?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/bharatsharma19/Paynride-Phone-Application">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Tech I use
+<br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,nestjs,fastapi,react,nextjs,vue,nuxt,flutter,postgres,redis,mongodb,docker,gcp,aws,githubactions,nginx" alt="Tech stack" />
-</p>
-
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>TypeScript · JavaScript · Python · C++ · Bash</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>FastAPI · NestJS · Node.js · Express · Django · Flask</td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>React · Next.js · Vue · Nuxt.js · Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td><strong>Mobile</strong></td>
-    <td>Flutter · React Native</td>
-  </tr>
-  <tr>
-    <td><strong>AI / LLM</strong></td>
-    <td>LangGraph · LangChain · RAG · Agents · OpenAI API · Vertex AI</td>
-  </tr>
-  <tr>
-    <td><strong>Data</strong></td>
-    <td>PostgreSQL · Redis · MySQL · MongoDB · Neo4j · Firebase</td>
-  </tr>
-  <tr>
-    <td><strong>Cloud / DevOps</strong></td>
-    <td>GCP · AWS · Docker · GitHub Actions · GitLab CI · Jenkins · Nginx</td>
-  </tr>
-  <tr>
-    <td><strong>Testing / Monitoring</strong></td>
-    <td>Jest · Cypress · Prometheus · Grafana · New Relic</td>
-  </tr>
-</table>
-
----
-
-## How I think about engineering
-
-```txt
-Build for clarity.
-Design for change.
-Debug with evidence.
-Automate repeated work.
-Protect users and systems.
-Keep production boring.
-```
-
----
-
-## Current focus
-
-<table>
-  <tr>
-    <td>AI-enabled product engineering</td>
-    <td>Scalable backend architecture</td>
-  </tr>
-  <tr>
-    <td>Cloud-native production systems</td>
-    <td>Developer experience and internal tools</td>
-  </tr>
-  <tr>
-    <td>Secure and maintainable software</td>
-    <td>Fast product execution with long-term technical quality</td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <strong>Open to:</strong> Technical Lead · Lead Full-Stack Engineer · AI Systems Engineer · Backend Engineer · Platform Engineer · Founding Engineer
+  <b>Open to</b><br/>
+  Technical Lead · Lead Full-Stack Engineer · AI Systems Engineer<br/>
+  Backend Engineer · Platform Engineer · Founding Engineer
 </p>
 
 <p align="center">
-  <a href="https://bharat-sharma-portfolio.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/bharatsharma1909/">LinkedIn</a> ·
-  <a href="mailto:bharat8717sharma@gmail.com">bharat8717sharma@gmail.com</a>
+  <a href="https://itsbharatsharma.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/bharatsharma1909/">LinkedIn</a> · <a href="mailto:itsbharatsharma19@gmail.com">itsbharatsharma19@gmail.com</a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=84&color=0:14B8A6,50:2563EB,100:0F172A&section=footer" alt="Footer" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1E3A8A%2C50:2563EB%2C100:14B8A6" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2563EB%2C100:14B8A6" alt="" />
+</picture>
