@@ -1,13 +1,9 @@
 <a href="https://itsbharatsharma.vercel.app/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1E3A8A%2C50:2563EB%2C100:14B8A6&text=Bharat%20Sharma&fontColor=FFFFFF&fontSize=64&fontAlignY=35&desc=Technical%20Lead%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20AI%20Systems&descSize=22&descAlignY=56" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2563EB%2C100:14B8A6&text=Bharat%20Sharma&fontColor=0F172A&fontSize=64&fontAlignY=35&desc=Technical%20Lead%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20AI%20Systems&descSize=22&descAlignY=56" alt="Bharat Sharma. Technical Lead, Full-Stack Engineer, AI Systems." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bharatsharma19/Bharatsharma19/main/hero-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/bharatsharma19/Bharatsharma19/main/hero-light.svg" alt="Bharat Sharma. Technical Lead, Full-Stack Engineer, AI Systems. Production AI systems, built and kept running." />
   </picture>
 </a>
-
-<p align="center">
-  <a href="https://itsbharatsharma.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&height=40&lines=Building+reliable+AI-enabled+products;Designing+scalable+backend+and+cloud+systems;Turning+complex+requirements+into+production-ready+software" alt="Building reliable AI-enabled products. Designing scalable backend and cloud systems. Turning complex requirements into production-ready software." /></a>
-</p>
 
 <p align="center">
   <a href="https://itsbharatsharma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge" alt="Portfolio" /></a>
@@ -57,6 +53,13 @@ I build production AI systems and stay with them once they are live: agents and 
   </tr>
 </table>
 </div>
+
+## How I build
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bharatsharma19/Bharatsharma19/main/system-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/bharatsharma19/Bharatsharma19/main/system-light.svg" alt="System map. Clients call an API layer. Requests are answered from cache and database inside a time limit. Slow work goes to a queue, then workers and AI workflows, and validated results are written back. It all runs on CI/CD, monitoring, secrets and access control." />
+</picture>
 
 ## Featured projects
 
@@ -205,7 +208,7 @@ I build production AI systems and stay with them once they are live: agents and 
 </table>
 </div>
 
-## How I work
+## Engineering profile
 
 ~~~ts
 const bharat = {
@@ -294,8 +297,3 @@ const bharat = {
 <p align="center">
   <a href="https://itsbharatsharma.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/bharatsharma1909/">LinkedIn</a> · <a href="mailto:itsbharatsharma19@gmail.com">itsbharatsharma19@gmail.com</a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1E3A8A%2C50:2563EB%2C100:14B8A6" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2563EB%2C100:14B8A6" alt="" />
-</picture>
